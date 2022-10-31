@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dkhondkar
-- 👀 I’m interested in coding using C#
-- 🌱 I’m currently enrolled in web development program in St. Clair College, Windsor, Ontario, Canada.
+- 👀 I’m interested in coding, using C#
+- 🌱 I’m currently enrolled in web development program at St. Clair College, Windsor, Ontario, Canada.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
